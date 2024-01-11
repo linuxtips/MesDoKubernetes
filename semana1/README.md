@@ -449,7 +449,7 @@ ou
 ```
 curl -Lo ./kind https://kind.sigs.k8s.io/dl/v0.14.0/kind-darwin-amd64
 chmod +x ./kind
-mv ./kind /usr/bin/kind
+mv ./kind /usr/local/bin/kind
 ```
 &nbsp;
 ##### Instalação no Windows
