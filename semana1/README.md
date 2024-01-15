@@ -676,6 +676,8 @@ Primeiro, vamos desativar a utilização de swap no sistema. Isso é necessário
 sudo swapoff -a
 ```
 
+Obs.: Para desativar o swap permanentemente, edite o arquivo `/etc/fstab` comentando a linha referente ao swap.
+
 ##### Carregando os módulos do kernel
 
 Agora, vamos carregar os módulos do kernel necessários para o funcionamento do Kubernetes:
