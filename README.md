@@ -22,7 +22,7 @@ O **Mês do Kubernetes** é um evento especial organizado pela LINUXtips, dedica
 Aqui, você encontrará slides, códigos-fonte, listas de leitura recomendadas e outros materiais de apoio usados durante as lives. Cada pasta corresponde a uma semana específica do evento:
 
 - [Semana 1](/semana1)
-- [Semana 2](/semana2)
+- [Semana 2](https://github.com/Rapha-Borges/oke-free)
 - [Semana 3](/semana3)
 - [Semana 4](/semana4)
 
