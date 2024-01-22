@@ -1091,7 +1091,7 @@ Agora você já consegue ver que os dois novos nodes foram adicionados ao cluste
 Agora que o cluster está inicializado, vamos instalar o Weave Net:
 
 ```
-$ kubectl apply -f https://github.com/weaveworks/weave/releases/download/v2.8.1/weave-daemonset-k8s.yaml
+kubectl apply -f https://github.com/weaveworks/weave/releases/download/v2.8.1/weave-daemonset-k8s.yaml
 ```
 
 &nbsp;
